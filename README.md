@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on front end React.js
 - 🌱 I’m currently learning Git, GitHub, React.js, Java
 - 💬 Ask anything about me
-- 📫 How to reach me: contatofabriciofsn@gmail.com
+- 📫 How to reach me: banksapk@gmail.com
 - 😄 Pronouns: He, Him
 
 <div align="center">
