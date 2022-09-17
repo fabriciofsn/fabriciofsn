@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on front end React.js
-- 🌱 I’m currently learning Git, GitHub, React.js, Java
+- 🌱 I’m currently learning Git, GitHub, React.js, Node.js
 - 💬 Ask anything about me
 - 📫 How to reach me: banksapk@gmail.com
 - 😄 Pronouns: He, Him
