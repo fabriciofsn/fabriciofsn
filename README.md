@@ -5,7 +5,7 @@
 - 📫 How to reach me: banksapk@gmail.com
 - 😄 Pronouns: He, Him
 
-<div align="center">
+<div style="display: flex, justify-content: space-between, align-itens: center">
   <a href="https://github.com/fabriciofsn">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=fabriciofsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofsn&layout=compact&langs_count=7&theme=dracula"/>
