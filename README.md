@@ -11,7 +11,7 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofsn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: flex, justify-content: space-between, align-itens: center"><br>
   <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-Git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=148&color=cd23c7">
