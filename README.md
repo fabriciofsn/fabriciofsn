@@ -17,7 +17,8 @@
     <img align="center" alt="Fabricio-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fabricio-Git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=148&color=cd23c7">
-  <img align="center" alt="Fabricio-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Fabricio-GitHub" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+    
   
 </div>
   
