@@ -3,7 +3,6 @@
 
 - 💬 Ask anything about me
 - 📫 How to reach me: fabricio_fsn@icloud.com
-- 😏 Pronouns: He, Him
 
 <div align="center">
   <a href="https://github.com/fabriciofsn">
