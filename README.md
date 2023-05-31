@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=fabriciofsn&color=blueviolet)
 
 - 💬 Ask anything about me
-- 📫 How to reach me: fabricio_fsn@icloud.com
+- 📫 How to reach me: fabricio_fsn@icloud.com <br />
 
 <div align="center">
   <a href="https://github.com/fabriciofsn">
