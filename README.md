@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=fabriciofsn&color=blueviolet)
 
 - 💬 Ask anything about me
-- 📫 How to reach me: fabricio_fsn@icloud.com <br />
+- 📫 How to reach me: https://www.linkedin.com/in/fabriciofsn-dev/ <br />
 
 <div align="center">
   <a href="https://github.com/fabriciofsn">
