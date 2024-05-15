@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=fabriciofsn&color=blueviolet)
 
-- 💬 Ask anything about me
+- 💬 Ask anything about Javascript, Typescript, nodeJS, PostgreSQL, MongoDB
 - 📫 How to reach me: https://www.linkedin.com/in/fabriciofsn-dev/ <br />
 
 <div align="center">
